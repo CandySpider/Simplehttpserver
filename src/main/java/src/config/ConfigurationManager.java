@@ -1,6 +1,6 @@
-package com.basic.httpserver.config;
+package src.config;
 
-import com.basic.httpserver.util.Json;
+import src.util.Json;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 

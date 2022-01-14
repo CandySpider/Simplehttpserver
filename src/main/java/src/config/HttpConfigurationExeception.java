@@ -1,4 +1,4 @@
-package com.basic.httpserver.config;
+package src.config;
 
 public class HttpConfigurationExeception extends RuntimeException {
     public HttpConfigurationExeception() {

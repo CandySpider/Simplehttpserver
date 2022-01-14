@@ -1,4 +1,4 @@
-package com.basic.httpserver.config;
+package src.config;
 
 public class Configuration {
     private  int port;
